@@ -1,7 +1,12 @@
 {
-  "line_items": [
-    {
-      "usage_amount": 25
+  "usage": [
+    "line_items": [
+      {
+        "usage_amount": 25
+      }
+    ]
+  ],
+    "profile": {
+      "name": "typicode"
     }
-  ]
 }
